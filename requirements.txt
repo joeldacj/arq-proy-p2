@@ -1,0 +1,2 @@
+Flask==2.2.2  # O una versión reciente de Flask
+mysql-connector-python==8.0.31 # O una versión compatible
